@@ -39,4 +39,5 @@ consentForm.addEventListener('submit', function (e) {
         </div>
     `;
   }, 3000);
+  closeBtn.disabled = false;
 });
